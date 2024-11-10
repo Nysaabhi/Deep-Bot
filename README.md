@@ -121,7 +121,7 @@
         
         .message {
             display: flex;
-            gap: 12px;
+            gap: 10px;
             max-width: 85%;
             margin-bottom: 16px;
             animation: messageSlide 0.3s ease-out;
@@ -229,7 +229,7 @@
         }
         
         .chat-input-container {
-            padding: 16px;
+            padding: 20px;
             background: rgba(26, 26, 31, 0.98);
             border-top: 1px solid rgba(255, 215, 0, 0.1);
             display: flex;
@@ -242,7 +242,7 @@
             background: rgba(255, 255, 255, 0.05);
             border: 1px solid rgba(255, 215, 0, 0.2);
             border-radius: 12px;
-            padding: 12px 16px;
+            padding: 20px 20px;
             color: var(--text-light);
             font-size: 0.95em;
         }
@@ -382,7 +382,7 @@
 
         .form-group input,
         .form-group textarea {
-            padding: 10px;
+            padding: 5px;
             background: rgba(255, 255, 255, 0.05);
             border: 1px solid rgba(255, 215, 0, 0.2);
             border-radius: 6px;
