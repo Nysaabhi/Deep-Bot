@@ -366,7 +366,7 @@
         .booking-form {
             display: flex;
             flex-direction: column;
-            gap: 15px;
+            gap: 10px;
         }
 
         .form-group {
@@ -390,7 +390,7 @@
         }
 
         .form-group textarea {
-            min-height: 100px;
+            min-height: 50px;
             resize: vertical;
         }
 
